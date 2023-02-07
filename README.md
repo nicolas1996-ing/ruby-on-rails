@@ -1,5 +1,10 @@
 # README
 
+## hello world 
+this is the first application for the [*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael hartl](https://www.michaelhartl.com/). hello, world!
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 

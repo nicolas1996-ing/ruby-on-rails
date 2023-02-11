@@ -71,6 +71,7 @@ group :test do
   gem "webdrivers"
 end
 
+# update needed to deploy in heroku 
 group :production do
   gem "pg", "1.3.5"
 end
